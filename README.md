@@ -50,7 +50,3 @@ This will launch a Gradio interface that allows you to input text and select the
 
 - This script leverages pre-trained models from NVIDIA's Deep Learning Examples repository.
 - Gradio is used for creating the user-friendly interface.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
